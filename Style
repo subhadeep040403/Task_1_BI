@@ -1,0 +1,17 @@
+body
+{
+     background: white;
+}
+p
+{
+    color: black;
+}
+h1
+{
+    color: blue;
+    font-weight: bold;
+}
+h3
+{
+    color: aqua;
+}
