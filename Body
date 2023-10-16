@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Task 1</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>My Portfolio</h1>
+<h3>Name</h3>
+<p>Subhadeep Sen</p>
+<h3>Age</h3>
+<p>20</p>
+<h3>College</h3>
+<p>Institute of Engineering and Management, Salt Lake</p>
+<h3>My Accomplishments</h3>
+<p>
+<ol>
+    <li>Passed Xth Exams with 94.2% in 2019</li>
+    <li>Passed XIIth Exams with 95.25% in 2021</li>
+    <li>Have well knowledge in HTML, CSS</li>
+</ol>
+</p>
+</body>
+</html>
